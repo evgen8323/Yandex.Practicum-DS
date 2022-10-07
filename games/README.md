@@ -11,8 +11,8 @@
 5. Проверка гипотез
 6. Вывод, рекомендации
 
-## Использовавшиеся библиотеки
-pandas
-numpy
-matplotlib
-scipy
+## Используемые библиотеки
+- pandas
+- numpy
+- matplotlib
+- scipy
