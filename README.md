@@ -20,4 +20,6 @@
 
 [oil]: (https://github.com/evgen8323/Yandex.Practicum-DS/tree/main/oil)
 [games]: (https://github.com/evgen8323/Yandex.Practicum-DS/tree/main/games)
-[cv]: (https://github.com/evgen8323/Yandex.Practicum-DS/tree/main/oil)
+[cv]: (https://github.com/evgen8323/Yandex.Practicum-DS/tree/main/computer_vision)
+
+
